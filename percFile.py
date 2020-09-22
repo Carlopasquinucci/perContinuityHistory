@@ -1,4 +1,4 @@
-# Usage python percFile.py
+
 # to do:insert the patch names as arguments
 
 fout=open('fperc','w')
